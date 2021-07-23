@@ -6,7 +6,7 @@
 "COST": "5.25",
 "MSRP": "200.99",
 "ONHAND": "10",
-"BACKORDER": "4",
+"BACKORDER": "0",
 "DESCRIPTION": "A fine crystal* bowl designed for display. *not real crystal",
 "BRAND": "Fragile"
 },
@@ -50,7 +50,7 @@
 "COST": "25.10",
 "MSRP": "40.10",
 "ONHAND": "10",
-"BACKORDER": "2",
+"BACKORDER": "0",
 "DESCRIPTION": "A small metal tin perfectly sized for cigars, with a handy slot on the side for a cigar cutter",
 "BRAND": "Fragile"
 },
@@ -61,7 +61,7 @@
 "COST": "30.00",
 "MSRP": "55.00",
 "ONHAND": "4",
-"BACKORDER": "2",
+"BACKORDER": "0",
 "DESCRIPTION": "A set of 15 of our genuine Copper plate plates, long lasting and durable",
 "BRAND": "Copper Plate"
 },
@@ -72,7 +72,7 @@
 "COST": "20.00",
 "MSRP": "40.00",
 "ONHAND": "7",
-"BACKORDER": "2",
+"BACKORDER": "0",
 "DESCRIPTION": "A set of 10 of our genuine Copper plate plates, long lasting and durable",
 "BRAND": "Copper Plate"
 },
@@ -83,7 +83,7 @@
 "COST": "10.00",
 "MSRP": "25.00",
 "ONHAND": "10",
-"BACKORDER": "2",
+"BACKORDER": "0",
 "DESCRIPTION": "A set of 5 of our genuine Copper plate plates, long lasting and durable",
 "BRAND": "Copper Plate"
 },
@@ -116,7 +116,7 @@
 "COST": "2.50",
 "MSRP": "5.00",
 "ONHAND": "25",
-"BACKORDER": "4",
+"BACKORDER": "0",
 "DESCRIPTION": "A rustic handcrafted clay mug made from the finest home grown clay",
 "BRAND": "Clay Pigeon"
 },
@@ -127,7 +127,7 @@
 "COST": "2.50",
 "MSRP": "5.00",
 "ONHAND": "25",
-"BACKORDER": "3",
+"BACKORDER": "0",
 "DESCRIPTION": "A rustic handcrafted clay bowl made from the finest home grown clay",
 "BRAND": "Clay Pigeon"
 },
@@ -138,7 +138,7 @@
 "COST": "2.50",
 "MSRP": "5.00",
 "ONHAND": "25",
-"BACKORDER": "4",
+"BACKORDER": "0",
 "DESCRIPTION": "A rustic handcrafted clay plate made from the finest home grown clay",
 "BRAND": "Clay Pigeon"
 },
@@ -149,7 +149,7 @@
 "COST": "3.00",
 "MSRP": "5.50",
 "ONHAND": "15",
-"BACKORDER": "3",
+"BACKORDER": "0",
 "DESCRIPTION": "A rustic handcrafted clay bowl made from the finest home grown clay",
 "BRAND": "Clay Pigeon"
 },
@@ -160,7 +160,7 @@
 "COST": "2.50",
 "MSRP": "5.00",
 "ONHAND": "20",
-"BACKORDER": "4",
+"BACKORDER": "0",
 "DESCRIPTION": "A rustic handcrafted clay serving plate made from the finest home grown clay",
 "BRAND": "Clay Pigeon"
 }
