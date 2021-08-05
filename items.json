@@ -4,8 +4,8 @@
 "PRONAME": "Crystal Bowl",
 "GRAPHNAME": "BowlF.jpg",
 "COST": "5.25",
-"MSRP": "200.99",
-"ONHAND": "10",
+"MSRP": "409.99",
+"ONHAND": "3",
 "BACKORDER": "0",
 "DESCRIPTION": "A fine crystal* bowl designed for display. *not real crystal",
 "BRAND": "Fragile"
@@ -15,8 +15,8 @@
 "PRONAME": "Crystal Glass",
 "GRAPHNAME": "cupF.jpg",
 "COST": "1.20",
-"MSRP": "170.50",
-"ONHAND": "10",
+"MSRP": "299.99",
+"ONHAND": "4",
 "BACKORDER": "0",
 "DESCRIPTION": "A fine crystal* Glass designed to be held comfortably. *not real crystal",
 "BRAND": "Fragile"
