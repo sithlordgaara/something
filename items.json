@@ -1,0 +1,167 @@
+[
+{
+ID: "A123467898",
+PRONAME: "Crystal Bowl",
+GRAPHNAME: "BowlF.jpg",
+COST: "5.25",
+MSRP: "409.99",
+ONHAND: "3",
+BACKORDER: "0",
+DESCRIPTION: "A fine crystal* bowl designed for display. *not real crystal",
+BRAND: "Fragile"
+},
+{
+ID: "B223467898",
+PRONAME: "Crystal Glass",
+GRAPHNAME: "cupF.jpg",
+COST: "1.20",
+MSRP: "299.99",
+ONHAND: "4",
+BACKORDER: "0",
+DESCRIPTION: "A fine crystal* Glass designed to be held comfortably. *not real crystal",
+BRAND: "Fragile"
+},
+{
+ID: "C323467898",
+PRONAME: "Crystal Plate",
+GRAPHNAME: "plateF.jpg",
+COST: ".10",
+MSRP: "162.50",
+ONHAND: "5",
+BACKORDER: "0",
+DESCRIPTION: "A fine crystal* plate designed for display. *not real crystal",
+BRAND: "Fragile"
+},
+{
+ID: "D423467898",
+PRONAME: "Crystal Coffee Mug",
+GRAPHNAME: "CrapF.jpg",
+COST: "1.10",
+MSRP: "100.00",
+ONHAND: "2",
+BACKORDER: "0",
+DESCRIPTION: "A fine crystal* Coffee mug designed for display. *not real crystal, **do not use with hot liquids",
+BRAND: "Fragile"
+},
+{
+ID: "E523467898",
+PRONAME: "Cigar Tin",
+GRAPHNAME: "TinF.png",
+COST: "25.10",
+MSRP: "40.10",
+ONHAND: "10",
+BACKORDER: "0",
+DESCRIPTION: "A small metal tin perfectly sized for cigars, with a handy slot on the side for a cigar cutter",
+BRAND: "Fragile"
+},
+{
+ID: "F623467898",
+PRONAME: "15 piece plate set",
+GRAPHNAME: "CP15.jpg",
+COST: "30.00",
+MSRP: "55.00",
+ONHAND: "4",
+BACKORDER: "0",
+DESCRIPTION: "A set of 15 of our genuine Copper plate plates, long lasting and durable",
+BRAND: "Copper Plate"
+},
+{
+ID: "G723467898",
+PRONAME: "10 piece plate set",
+GRAPHNAME: "CP10.jpg",
+COST: "20.00",
+MSRP: "40.00",
+ONHAND: "7",
+BACKORDER: "0",
+DESCRIPTION: "A set of 10 of our genuine Copper plate plates, long lasting and durable",
+BRAND: "Copper Plate"
+},
+{
+ID: "H823467898",
+PRONAME: "5 piece plate set",
+GRAPHNAME: "CP5.jpg",
+COST: "10.00",
+MSRP: "25.00",
+ONHAND: "10",
+BACKORDER: "0",
+DESCRIPTION: "A set of 5 of our genuine Copper plate plates, long lasting and durable",
+BRAND: "Copper Plate"
+},
+{
+ID: "I923467898",
+PRONAME: "25 piece plate set",
+GRAPHNAME: "CP25.jpg",
+COST: "50.00",
+MSRP: "70.00",
+ONHAND: "1",
+BACKORDER: "0",
+DESCRIPTION: "A set of 25 of our genuine Copper plate plates, long lasting and durable",
+BRAND: "Copper Plate"
+},
+{
+ID: "J033467898",
+PRONAME: "20 piece plate set",
+GRAPHNAME: "CP20.jpg",
+COST: "60.00",
+MSRP: "60.00",
+ONHAND: "1",
+BACKORDER: "0",
+DESCRIPTION: "A set of 20 of our genuine Copper plate plates, long lasting and durable",
+BRAND: "Copper Plate"
+},
+{
+ID: "K133467898",
+PRONAME: "Handcrafted Mug",
+GRAPHNAME: "mugCP.jpg",
+COST: "2.50",
+MSRP: "5.00",
+ONHAND: "25",
+BACKORDER: "0",
+DESCRIPTION: "A rustic handcrafted clay mug made from the finest home grown clay",
+BRAND: "Clay Pigeon"
+},
+{
+ID: "L233467898",
+PRONAME: "Handcrafted bowl",
+GRAPHNAME: "bowlCP.jpg",
+COST: "2.50",
+MSRP: "5.00",
+ONHAND: "25",
+BACKORDER: "0",
+DESCRIPTION: "A rustic handcrafted clay bowl made from the finest home grown clay",
+BRAND: "Clay Pigeon"
+},
+{
+ID: "M333467898",
+PRONAME: "Handcrafted plate",
+GRAPHNAME: "plateCP.jpg",
+COST: "2.50",
+MSRP: "5.00",
+ONHAND: "25",
+BACKORDER: "0",
+DESCRIPTION: "A rustic handcrafted clay plate made from the finest home grown clay",
+BRAND: "Clay Pigeon"
+},
+{
+ID: "N433467898",
+PRONAME: "Handcrafted large bowl",
+GRAPHNAME: "bowlBigCP.jpg",
+COST: "3.00",
+MSRP: "5.50",
+ONHAND: "15",
+BACKORDER: "0",
+DESCRIPTION: "A rustic handcrafted clay bowl made from the finest home grown clay",
+BRAND: "Clay Pigeon"
+},
+{
+ID: "O533467898",
+PRONAME: "Handcrafted serving plate",
+GRAPHNAME: "plateBigCP.jpg",
+COST: "2.50",
+MSRP: "5.00",
+ONHAND: "20",
+BACKORDER: "0",
+DESCRIPTION: "A rustic handcrafted clay serving plate made from the finest home grown clay",
+BRAND: "Clay Pigeon"
+}
+]
